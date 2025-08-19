@@ -1,3 +1,5 @@
+<a href="https://doi.org/10.5281/zenodo.16903099"><img src="https://zenodo.org/badge/1001602164.svg" alt="DOI"></a>
+
 # Read me
 This repository contains all necessary data to reproduce the results and figures in the paper titled "Testing the priming effect in the deep ocean: are microorganisms too starved to consume recalcitrant organic carbon?" submitted to _Applied and Environmental Microbiology_.
 
@@ -25,6 +27,3 @@ Figure 1 can be produced using ggmap, cowplot, sf, lwgeom and rworldmap librarie
 Figures 2 and S2 can be produced with Data.xlsx.
 
 Figures 3, 4 and S3 can be produced with the 16S rRNA amplicon sequencing data available on NCBI Sequence Read Archive using accession number PRJNA1274019.
-
-
-<a href="https://doi.org/10.5281/zenodo.16903099"><img src="https://zenodo.org/badge/1001602164.svg" alt="DOI"></a>
